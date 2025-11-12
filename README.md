@@ -18,9 +18,6 @@
  **En este breve resumen: la idea de este repositorio es crear una base de datos curada de informes de vulnerabilidades web (bug bounty), con notas, imágenes y vídeos —todo curado por Aquiles. No se trata de quién leyó más informes, sino de compartir con la comunidad la experiencia: mis notas, capturas, audios y vídeos sobre cada vulnerabilidad en formato JSON, listos para importar y usar con la herramienta de gestor de informes. Así podremos crecer y construir una base de datos de informes curados, tanto por Aquiles como por la propia comunidad; cada hunter podrá compartir sus JSON exportados desde la herramienta para ampliar y enriquecer el repositorio con hallazgos de distintas plataformas.** 
 <br><br> 
 
-<p align="center">
- <img  height="420rem" alt="GIF" src="https://github.com/Aquiles369/iconos/blob/main/demo_promt_ia.gif"/>
-</p>
 
 <br>
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
@@ -44,7 +41,7 @@
 
 # 1
 
-• análisis de JavaScript <a href="https://github.com/Aquiles369/js_analisis/blob/main/assets/json_informes/js%20(4).json" target="_blank" rel="noopener">JSON con notas personales de cada uno de los 177 informes</a> ”.<br><br>
+• análisis de JavaScript <a href="https://github.com/Aquiles369/Bases-de-datos-de-informes-json/blob/main/assets/json/js_analisis.json" target="_blank" rel="noopener">JSON con notas personales de cada uno de los 177 informes</a> ”.<br><br>
 
 
 
