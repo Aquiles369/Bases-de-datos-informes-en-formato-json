@@ -30,7 +30,7 @@
 
 ### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNrYTJhZDIzeng4ZmFnYnd4Znd5cHExZGVhOWJmZDgwYzRhcm95bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XBiYVMeqU5UHXa2jWM/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
 
-**Aporta: una base curada de informes en JSON (notas, capturas y medios). Beneficia: acelera el aprendizaje, facilita la reproducción y colaboración entre hunters y organiza el conocimiento para auditar a escala.**
+**Aporta: una base curada de informes en JSON (notas, capturas y medios). Beneficia: acelera el aprendizaje, facilita la reproducción y colaboración entre hunters y organiza el conocimiento para auditar a escala. Tool del gestor de informes : https://github.com/Aquiles369/Gestor-de-Informes**
 
 ## Indice
 
